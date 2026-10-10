@@ -1,0 +1,12 @@
+.git
+.github
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+catboost_info/
+model.joblib
+metrics.json
+model_comparison.json
+README.md
